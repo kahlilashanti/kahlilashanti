@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hey it's me! Built my first site in 1998. Get to know my coding background below. Ignore the CSS stats. Design isn't my forte 😅 
+
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo-Linkedin&logoColor-white)](https://linkedin.com/in/kahlilashanti)
@@ -13,8 +14,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Coder%2C+Actor+and+Love-To-Learner)](https://git.io/typing-svg)
 
 
-- 🔭 Currently working on XR (business) and Blockchain (person) projects with Mantis XR
-- 🌱 I’m a lifelong learner whether it is solidity, javascript, react, the more I learn the less I know!
+- 🔭 Currently working on XR (business) and Blockchain (personal) projects
+- 🌱 I’m a lifelong learner currently building in solidity, javascript, react - feels like the more I learn the less I know!
 - 👯 I’m looking to collaborate on blockchain projects
 - 🤔 I’m always looking to help people share their difficult past with strangers
 - 💬 Ask me about anything to do with guacamole recipes. Go ahead. I dare you.
