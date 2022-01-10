@@ -3,13 +3,7 @@
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo-Linkedin&logoColor-white)](https://linkedin.com/in/kahlilashanti)
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor-white)](https://kahlilashanti.com)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor-white)](https://twitter.com/kahlilashanti)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagrame4405f?style=flat-square&logo=Instagram&logoColor-white)](https://instagram.com/kahlil.ashanti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo-Linkedin&logoColor-white)](https://linkedin.com/in/kahlilashanti) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor-white)](https://kahlilashanti.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor-white)](https://twitter.com/kahlilashanti) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor-white)](https://instagram.com/kahlil.ashanti)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Coder%2C+Actor+and+Love-To-Learner)](https://git.io/typing-svg)
