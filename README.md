@@ -1,5 +1,5 @@
 ### 👋 Thanks for stopping by. I built my first website using AngelFire in 1998. Who's with me? Okay...just me...
-### 🏠 lived in Germany, Japan and the US as a kid
+### 🏠 Born in Germany, grew up in Japan and the US as a kid
 ### 😎 Get to know my coding background below. Except for the CSS. Design 'aint my thing'. 😅 
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
