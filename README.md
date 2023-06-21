@@ -11,8 +11,8 @@
 
 
 - 🔭 Currently working on XR (business) and Blockchain (personal) projects
-- 🌱 I’m a lifelong learner currently building in solidity, javascript, react - feels like the more I learn the less I know!
-- 👯 I’m looking to collaborate on blockchain projects
+- 🌱 I’m a lifelong learner currently building in javascript and react - feels like the more I learn the less I know!
+- 👯 I’m looking to collaborate on blockchain projects - not the monkey pictures but the useful ones 🐵
 - 🤔 I’m always looking to help people share their difficult past with strangers
 - 💬 Ask me about anything to do with guacamole recipes. Go ahead. I dare you.
 - 📫 How to reach me: kahlil(dot)ashanti(at)gmail(dot)com
