@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Coder%2C+Actor+and+Love-To-Learner)](https://git.io/typing-svg)
 
 
-- 🔭 Currently working on XR (business) and Blockchain (personal) projects
+- 🔭 Currently working on AI (business) and Blockchain (personal) projects
 - 🌱 I’m a lifelong learner currently building in javascript and react - feels like the more I learn the less I know!
 - 👯 I’m looking to collaborate on blockchain projects - not the monkey pictures but the useful ones 🐵
 - 🤔 I’m always looking to help people share their difficult past with strangers
